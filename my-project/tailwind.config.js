@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Monsterrat', 'sans-serif']
+        sans: ['Mali', 'sans-serif']
       }
     },
   },
