@@ -3,7 +3,7 @@
     const Navigation = () => {
         return (
             <nav>
-                <ul className = "flex justify-around bg-gray-300">
+                <ul className = "flex justify-around px-4 py-2 bg-gray-300">
                     <li className = "px-4 py-2 font-bold text-white bg-blue-500 rounded-full hover:bg-blue-700">
                         <Link href = "/">HOME</Link>
                     </li>
